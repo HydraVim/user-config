@@ -1,3 +1,5 @@
+-- add mappings to HydraVim
+
 return {
     -- n = {
     --     ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},

@@ -1,3 +1,5 @@
+-- add autom commands to HydraVim
+
 return {
     -- {
     --     { "InsertEnter"}, {

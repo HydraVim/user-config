@@ -1,3 +1,5 @@
+-- add commands to HydraVim
+
 return {
     -- ["CustomUserCommand"] = {
     --     function(opts)
