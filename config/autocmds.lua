@@ -1,17 +1,13 @@
 -- add autom commands to HydraVim
 
-return {
-    -- {
-    --     { "InsertEnter"}, {
-    --         pattern = '*',
-    --         command = "setlocal nohlsearch"
-    --     }
-    -- },
+local autocmd = vim.api.nvim_create_autocmd
 
-    -- {
-    --     { "InsertLeave"}, {
-    --         pattern = '*',
-    --         command = "setlocal hlsearch",
-    --     }
-    -- }
-}
+autocmd({ "InsertEnter"}, {
+    pattern = '*',
+    command = "setlocal nohlsearch"
+})
+
+autocmd({ "InsertLeave"}, {
+    pattern = '*',
+    command = "setlocal hlsearch",
+})

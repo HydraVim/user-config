@@ -1,21 +1,19 @@
 -- add mappings to HydraVim
 
 return {
-    -- n = {
-    --     ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
-    -- },
+    n = {
+        ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
+    },
 
-    -- v = {
-    --     ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
-    -- },
+    v = {
+        ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
+    },
 
-    -- i = {
-    --     ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
-    -- },
+    i = {
+        ['<C-Q>'] = {'<ESC><CMD>q!<CR>'},
+    },
 
-    -- t = {
-    --     ['<A-h>'] = {'<CMD>ToggleTerm<CR>'},
-    -- },
-
+    t = {
+        ['<A-h>'] = {'<CMD>ToggleTerm<CR>'},
+    },
 }
-
