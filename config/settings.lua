@@ -12,7 +12,8 @@ return {
         syntax = 'on',
     },
     g = {
-        mapleader = ' ',
+        -- hydavim_theme = "catppuccin-mocha",
+        -- hydravim_branch = "main",
+        mapleader = ' '
     }
 }
-
