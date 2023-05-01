@@ -12,8 +12,10 @@ return {
         syntax = 'on',
     },
     g = {
-        -- hydavim_theme = "catppuccin-mocha",
-        -- hydravim_branch = "main",
-        mapleader = ' '
+        hydravim_theme = "catppuccin-mocha",
+        hydravim_branch = "main",
+        hydravim_remote = "HydraVim/HydraVim",
+        hydravim_branch_template = "1.0",
+        hydravim_dash = true,
     }
 }
