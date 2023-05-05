@@ -1,11 +1,10 @@
 # ⚡️ Template for HydraVim User Config
-Base to create your HydraVim configuration, which allows you to keep the latest version installed without losing your modifications.
+- Base to create your HydraVim configuration, which allows you to keep the latest version installed without losing your modifications.
+- Use the command below to install the configuration template inside the `.../nvim/lua/user/` folder.
 
-```vimscript
+```lua
 :HydraVimCreateUserConfig
 ```
-Use the command below to install the configuration template inside the `.../nvim/lua/user/` folder.
-
 
 ## 🧬 Your personal configuration
 
