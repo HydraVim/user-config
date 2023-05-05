@@ -6,6 +6,22 @@ Base to create your HydraVim configuration, which allows you to keep the latest 
 ```
 Use the command below to install the configuration template inside the `.../nvim/lua/user/` folder.
 
+
+## 🧬 Your personal configuration
+
+- Fork this repository
+- Clone it into `.../nvim/lua/user/`
+
+### Unix
+```sh
+git clone https://github.com/<user>/<repo> ~/.config/nvim/lua/user
+```
+
+### Windows
+```sh
+git clone https://github.com/<user>/<repo> $HOME\AppData\Local\nvim\lua\user
+```
+
 ## 📚 Wiki
 Learn more on the [Wiki](https://github.com/HydraVim/HydraVim/wiki/Custom-User-Config)
 
