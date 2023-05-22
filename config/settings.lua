@@ -15,7 +15,7 @@ return {
         hydravim_theme = "catppuccin-mocha",
         hydravim_branch = "main",
         hydravim_remote = "HydraVim/HydraVim",
-        hydravim_branch_template = "1.2",
+        hydravim_branch_template = "1.1",
         hydravim_dash = true,
     }
 }
