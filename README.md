@@ -3,7 +3,7 @@
 - Use the command below to install the configuration template inside the `.../nvim/lua/user/` folder.
 
 ```lua
-:HydraVimCreateUserConfig
+:HydraVimCustomConfig
 ```
 
 ## 🧬 Your personal configuration
